@@ -3,3 +3,12 @@ body {
     font-family: 'Press Start 2P';
     color: #fff; 
   }
+  .styled-table {
+    width: 100%;
+    border-collapse: collapse; 
+    border: 2px solid #ddd;
+  }
+  .img{
+    width: 5%;
+    height: 5%;
+  }
