@@ -1,0 +1,14 @@
+body {
+    background-color: #3498db;
+    font-family: 'Press Start 2P';
+    color: #fff; 
+  }
+  .styled-table {
+    width: 100%;
+    border-collapse: collapse; 
+    border: 2px solid #ddd;
+  }
+  .styled-image {
+    width: 5%; 
+    height: 5%;
+}
